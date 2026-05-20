@@ -5,5 +5,7 @@ class app{
   int b = 10;
   int result = a + b;
   System.out.println(result);
+
+  // changes by 2nd member
  }
 }
