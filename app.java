@@ -4,4 +4,6 @@ class app{
   int b = 10;
   int result = a * b;
   System.out.println(result);
+  System.out.println("Hello World ");
+
 }
